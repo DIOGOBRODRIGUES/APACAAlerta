@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">APACAAlerta</string>
+    <string name="title_home">Previsão</string>
+    <string name="title_dashboard">Alerta</string>
+    <string name="title_notifications">Rios</string>
+
+</resources>
