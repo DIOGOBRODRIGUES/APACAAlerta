@@ -16,4 +16,9 @@
         android:icon="@drawable/ic_baseline_water_24"
         android:title="@string/title_notifications" />
 
+    <item
+        android:id="@+id/navigation_mares"
+        android:icon="@drawable/ic_baseline_tsunami_24"
+        android:title="@string/title_mares" />
+
 </menu>
